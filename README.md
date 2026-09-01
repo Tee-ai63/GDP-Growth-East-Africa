@@ -62,7 +62,7 @@ Built in Power BI — two pages:
 - **Page 1 (Dashboard):** 4 KPI cards (GDP Growth, GDP per Capita, Inflation, Total GDP) driven by Country/Year slicers, a GDP growth trend line, an inflation trend line, a GDP per capita ranking bar chart, and a map — all featuring Kenya, 8 peer countries/regions, and 2015–2025 coverage.
 - **Page 2 (About This Dashboard):** project overview, usage instructions, and data notes.
 
-![Dashboard Screenshot](images/dashboard_final.png)
+![Dashboard Screenshot](images/dashboard_final.PNG)
 
 📁 Power BI file: [`dashboard/GDP_EastAfrica_Dashboard.pbix`](dashboard/GDP_EastAfrica_Dashboard.pbix)
 
