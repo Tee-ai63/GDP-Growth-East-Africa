@@ -68,7 +68,7 @@ Built in Power BI — two pages:
 
 ## 🎥 Demo Video
 
-[Link to demo video] *(add your video link here)*
+[Link to demo video] https://www.loom.com/share/2269159e6baa46fea6377c90f1ff8375
 
 ## 🛠️ Tools & Technologies
 
